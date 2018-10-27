@@ -83,7 +83,7 @@ If you were fired:
 
 When you’re asked this question, the interviewer wants to gauge your depth of understanding of what you’ve been studying. Passing a lab on Rails doesn’t make you an expert in Rails or qualify you to be a developer. 
 
-No matter who your audience is, the best way to approach answering this question is to ask yourself “what problem this app is solving?” Start your answer by presenting this question, followed by explaining how you approached building the app, including each feature purpose and what technologies were used to build each feature. 
+No matter who your audience is, the best way to approach answering this question is to ask yourself what problem this app is solving. Start your answer by presenting this question, followed by explaining how you approached building the app, including each feature purpose and what technologies were used to build each feature. 
 
 If your interviewer is an HR or recruiting professional, don’t get too deep into technical jargon that likely won’t be familiar to them, possibly making them confused and distracted. Instead, briefly touch on why you built each feature and what mini problems  they solve without getting into technical details beyond the names of the languages and frameworks you used.  
 
